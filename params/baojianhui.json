@@ -1,0 +1,11 @@
+{
+    "description":"保监会法规抓取",
+    "url":"http://www.circ.gov.cn/web/site0/tab5176/",
+    "filepath":"d:/temp/baojianhui",
+    "element_to_fetch":".dqwz,[style='font-size:12px;height:28px;border-bottom:#606060 1px dashed;color:#9b9b9b;'],p",
+    "element_fetched_title":"section,info,content",
+    "mode":"site",
+    "count":500,
+    "crawl_module":"request",
+    "crawl_link_features":["http://www.circ.gov.cn/web/site0"]
+}

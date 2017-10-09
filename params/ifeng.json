@@ -1,0 +1,12 @@
+{
+    "description":"凤凰新闻抓取",
+    "url":"http://news.ifeng.com/",
+    "filepath":"d:/temp/ifeng",
+    "element_to_fetch":"h1#artical_topic,div#artical_sth,div#main_content",
+    "element_fetched_title":"topic,info,content",
+    "element_to_download":"",
+    "mode":"site",
+    "count":100,
+    "crawl_module":"request",
+    "crawl_link_features":["http://news.ifeng.com/a/201708","http://news.ifeng.com/a/201709"]
+}
